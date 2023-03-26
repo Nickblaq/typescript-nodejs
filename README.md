@@ -1,17 +1,4 @@
 <h1 align="center">Express Typescript Mongoose Boilerplate</h1>
-
-<p align="center">
-  <a href="https://travis-ci.com/github/MrBrown6210/nodejs-express-mongoose-typescript-boilerplate">
-    <img src="https://travis-ci.com/MrBrown6210/nodejs-express-mongoose-typescript-boilerplate.svg?branch=main" alt="travis" />
-  </a>
-  <a href='https://coveralls.io/github/MrBrown6210/nodejs-express-mongoose-typescript-boilerplate?branch=main'>
-    <img src='https://coveralls.io/repos/github/MrBrown6210/nodejs-express-mongoose-typescript-boilerplate/badge.svg?branch=main' alt='Coverage Status' />
-  </a>
-  <a href="https://www.codacy.com/gh/MrBrown6210/nodejs-express-mongoose-typescript-boilerplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MrBrown6210/nodejs-express-mongoose-typescript-boilerplate&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/2fa9351c9741489ebf545d5407d9b7fd"/>
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PR" />
-  </a>
   <br>
   A boilerplate/starter project for quickly building RESTful APIs using Node.js, Express, and Mongoose mwritten in typescript
 </p>
@@ -188,7 +175,7 @@ To prevent a certain file or directory from being linted, add it to  `.eslintign
 To maintain a consistent coding style across different IDEs, the project contains  `.editorconfig`
 
 ## Contributing
-Contributions are welcome! Please check out the  [contributing guide](https://github.com/MrBrown6210/nodejs-express-mongoose-typescript-boilerplate/blob/main/CONTRIBUTING.md).
+Contributions are welcome! Please check out the  [contributing guide](https://github.com/nickblaq/typescript-nodejs/blob/main/CONTRIBUTING.md).
 
 ## Inspirations
 
@@ -197,4 +184,4 @@ Contributions are welcome! Please check out the  [contributing guide](https://gi
 -  **[hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate)**
 
 ## License
-[MIT](https://github.com/MrBrown6210/nodejs-express-mongoose-typescript-boilerplate/blob/master/LICENSE)
+[MIT](https://github.com/nickblaq/typescript-nodejs/blob/main/LICENSE)
